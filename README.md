@@ -1,5 +1,8 @@
 # Talk: General Word2Vec Background & Article "Distributed representations of words and phrases and their compositionality"
 
+# Requirement
+Docker installation required to run sample codes
+
 # Directory structure
 
 | Dir/File | Comment |
