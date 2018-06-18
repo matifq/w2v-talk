@@ -24,7 +24,7 @@ Docker installation required to run sample codes
 $ git clone https://github.com/matifq/w2v-talk.git
 $ cd w2v-talk
 $ ./start-jnotebook-server-as-container.sh  # enter sudo password for the script
-$localhost:8884 -- password is 'W2VTALK'
+browse: localhost:8884  with password 'W2VTALK'
 ```
 
 License
